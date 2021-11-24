@@ -1,0 +1,37 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+  width: 28rem;
+  margin: 0 auto;
+}
+
+.answer {
+  font-size: 40px;
+  text-align: right;
+  background-color: #858694;
+  color: white;
+  padding: 1rem;
+}
+
+.buttons {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 7rem;
+  height: 76px;
+  font-size: 24px;
+  background-color: #e0e0e0;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.double-button {
+  width: 14rem;
+}
+
+.orange {
+  background-color: #f5913e;
+}

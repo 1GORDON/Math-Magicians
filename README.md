@@ -2,9 +2,10 @@
 
 In this project I acheived the following
 
-- Created a React application using Create React App (CRA).
-- Made sure the application run in the browser without errors.
-- Updated the Readme file
+- Deleted all the boilerplate from CRA (text, images, styles).
+- Created a directory called components.
+- Created a new Calculator.js file.
+- Use class based components.
 
 ## Built With
 
