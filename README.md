@@ -1,6 +1,6 @@
 # Math-Magicians
 
-In this project I acheived the following
+In this project, I achieved the following
 
 - Copied the files calculate.js and operate.js into a logic/ directory in your project.
 - Imported the files in your Calculator component.
