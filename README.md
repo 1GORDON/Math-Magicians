@@ -2,10 +2,9 @@
 
 In this project I acheived the following
 
-- Deleted all the boilerplate from CRA (text, images, styles).
-- Created a directory called components.
-- Created a new Calculator.js file.
-- Use class based components.
+- Copied the files calculate.js and operate.js into a logic/ directory in your project.
+- Imported the files in your Calculator component.
+- Implemented the event handlers I need to use the math logic from calculate.js and operate.js in your React component.
 
 ## Built With
 
