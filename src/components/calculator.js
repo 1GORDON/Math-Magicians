@@ -15,6 +15,7 @@ const Calculator = () => {
     setOperation(results.operation);
   };
   return (
+
 <div className="calculator">
 <div className="answer">{total}{operation}{next}</div>
 <div className="buttons">
