@@ -13,9 +13,8 @@ const Calculator = () => {
     setTotal(results.total);
     setNext(results.next);
     setOperation(results.operation);
-  }
-    return (
-
+  };
+  return (
 <div className="calculator">
 <div className="answer">{total}{operation}{next}</div>
 <div className="buttons">
@@ -40,7 +39,7 @@ const Calculator = () => {
   <button type="button" id = "=" className="button orange" onClick={() => handleClick('=')}>=</button>
 </div>
 </div>
-    );
-  };
+  );
+};
 
 export default Calculator;
