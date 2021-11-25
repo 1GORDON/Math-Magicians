@@ -2,9 +2,7 @@
 
 In this project, I achieved the following
 
-- Copied the files calculate.js and operate.js into a logic/ directory in your project.
-- Imported the files in your Calculator component.
-- Implemented the event handlers I need to use the math logic from calculate.js and operate.js in your React component.
+- Refactored the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
 
 ## Built With
 
