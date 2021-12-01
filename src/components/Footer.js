@@ -3,9 +3,6 @@ import React from 'react';
 
 const Footer = () => (
     <footer>
-      Math Magicians &copy; Copyright &nbsp;
-      {new Date().getFullYear()}
-      ,audited by Gordon Tinyefuza.
     </footer>
 );
 
