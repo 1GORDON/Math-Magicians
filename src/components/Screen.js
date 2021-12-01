@@ -1,19 +1,20 @@
-import React, { Component } from "react";
+/* eslint-disable no-unused-vars */
+import React, { Component } from 'react';
 
 class Screen extends Component {
-  render () {
+  render() {
     const {
       id, total, next, operation,
     } = this.props;
-  
-  return (
+
+    return (
     <div>
       {total}
       {operation}
       {next}
     </div>
-  );
- }
+    );
+  }
 }
 
 export default Screen;

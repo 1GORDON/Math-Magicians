@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
-import QuoteData from "../components/QuoteData";
+/* eslint-disable no-unused-vars */
+import React, { useEffect, useState } from 'react';
+import QuoteData from '../components/QuoteData.js';
 import '../styles/Quotes.css';
 
 function Quotes() {

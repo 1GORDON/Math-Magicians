@@ -1,6 +1,7 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 
-function Footer () {
+function Footer() {
   return (
     <footer>
       Math Magicians &copy; Copyright &nbsp;

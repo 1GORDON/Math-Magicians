@@ -1,8 +1,9 @@
-import React from "react";
-import Calculator from "../components/calculator";
+/* eslint-disable no-unused-vars */
+import React from 'react';
+import Calculator from '../components/Calculator.js';
 import '../styles/Mathematics.css';
 
-function Mathematics () {
+function Mathematics() {
   return (
     <section>
       <div className="calculator-page">
