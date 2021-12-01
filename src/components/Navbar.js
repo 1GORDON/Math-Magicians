@@ -4,7 +4,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from './Header.js';
-import './..styles/Navbar.css';
+import '../styles/Navbar.css';
 
 function Navbar() {
   return (

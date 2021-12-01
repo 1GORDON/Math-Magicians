@@ -1,7 +1,7 @@
 /* eslint-disable import/no-unresolved */
 /* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
-import screen from './screen.js';
+import Screen from './Screen.js';
 import Button from './Button.js';
 import calculate from '../logic/calculate.js';
 

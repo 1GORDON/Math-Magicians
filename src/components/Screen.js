@@ -8,7 +8,7 @@ class Screen extends Component {
     } = this.props;
 
     return (
-    <div>
+    <div id={id}>
       {total}
       {operation}
       {next}
