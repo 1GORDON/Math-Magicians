@@ -2,8 +2,7 @@
 import React from 'react';
 import '../styles/Home.css';
 
-function Home() {
-  return (
+const Home = () => (
     <section className="homepage">
       <h2>Welcome to our page!</h2>
       <p>
@@ -32,7 +31,6 @@ function Home() {
         quasi aliquam eligendi, placeat qui corporis!
       </p>
     </section>
-  );
-}
+);
 
 export default Home;

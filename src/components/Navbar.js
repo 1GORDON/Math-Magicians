@@ -6,8 +6,7 @@ import { Link } from 'react-router-dom';
 import Header from './Header.js';
 import '../styles/Navbar.css';
 
-function Navbar() {
-  return (
+const Navbar = () => (
     <nav>
       <Header />
       <ul className="nav-list">
@@ -22,7 +21,6 @@ function Navbar() {
         </li>
       </ul>
     </nav>
-  );
-}
+);
 
 export default Navbar;

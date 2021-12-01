@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import QuoteData from '../components/QuoteData.js';
 import '../styles/Quotes.css';
 
-function Quotes() {
+const Quotes = () => {
   const quotes = QuoteData();
   const [quote, setQuote] = useState('');
   const [author, setAuthor] = useState('');
@@ -22,6 +22,6 @@ function Quotes() {
       <h3>{`-${author}`}</h3>
     </section>
   );
-}
+};
 
 export default Quotes;
