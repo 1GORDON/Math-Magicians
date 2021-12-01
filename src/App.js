@@ -1,12 +1,31 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable class-methods-use-this */
-import React from 'react';
-import Calculator from './components/calculator.js';
+/* eslint-disable react/prefer-stateless-function */
+import React, { Component } from 'react';
+import { Switch, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import Mathematics from './pages/Mathematics';
+import Quotes from './pages/Quotes';
+import Footer from './components/Footer';
+import './styles/Calculator.css';
 
-class App extends React.Component {
+class App extends Component {
   render() {
     return (
-    <Calculator />
+      <main className="App">
+        <Navbar />
+        <Switch>
+          <Route path="/quote">
+            <Quotes />
+          </Route>
+          <Route path="/calculator">
+            <Mathematics />
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+        <Footer />
+      </main>
     );
   }
 }
