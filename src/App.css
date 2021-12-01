@@ -1,20 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Harmattan:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Harmattan:wght@400;700&display=swap");
 
 *,
 *::before,
 *::after {
   box-sizing: border-box;
-  font-family: 'Harmattan', sans-serif;
+  font-family: "Harmattan", sans-serif;
   font-weight: normal;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family:
-    'Harmattan',
-    'Courier New',
-    monospace;
+  font-family: "Harmattan", "Courier New", monospace;
 }
 
 .App {
@@ -29,9 +26,13 @@ body {
 }
 
 footer {
+  display: flex;
   padding: 0 3vw;
   margin: 0;
   color: #fff;
   background: #3a3a47;
   border: 1px solid #1c1c22;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
 }

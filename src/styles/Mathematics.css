@@ -1,5 +1,6 @@
 .calculator-page {
   display: flex;
+  padding-left: 10px;
 }
 
 .calculator-content {
