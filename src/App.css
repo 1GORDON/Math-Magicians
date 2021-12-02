@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Harmattan:wght@400;700&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: "Harmattan", sans-serif;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Harmattan", "Courier New", monospace;
+}
+
+.App {
+  height: 100vh;
+}
+
+.homepage,
+.calculator-page,
+.quote-page {
+  height: auto;
+  min-height: 76.9%;
+}

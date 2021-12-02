@@ -1,0 +1,25 @@
+.quote-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10%;
+}
+
+.quote-page h3 {
+  font-size: 1.4rem;
+  width: 60%;
+  margin: 0;
+  text-align: center;
+}
+
+.quote-page p {
+  width: 60%;
+  margin: 0;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.quotes-section {
+  /* height: 80%; */
+  padding-left: 10px;
+}

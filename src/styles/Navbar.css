@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1vw;
+  margin-bottom: 50px;
+}
+
+.nav-list {
+  display: flex;
+  width: 40%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-item {
+  flex: 1;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.4rem;
+  border-right: 2px solid #3a3a47;
+}
+
+.nav-item:last-child {
+  border-right: none;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(31, 31, 202);
+}
+
+.link:hover {
+  color: #f5913e;
+}

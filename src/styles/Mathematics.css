@@ -1,0 +1,10 @@
+.calculator-page {
+  display: flex;
+  padding-left: 10px;
+}
+
+.calculator-content {
+  flex: 1;
+  padding: 0 2.5vw;
+  font-size: 2rem;
+}
