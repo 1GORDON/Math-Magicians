@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test screenshots for all components matches Button snapshot 1`] = `
+<button
+  onClick={[Function]}
+  type="button"
+/>
+`;
+
+exports[`test screenshots for all components matches Calculator snapshot 1`] = `
+<div
+  id="calculator"
+>
+  <div
+    id="display"
+  >
+    0
+  </div>
+  <button
+    id="clear"
+    onClick={[Function]}
+    type="button"
+  >
+    AC
+  </button>
+  <button
+    id="delete"
+    onClick={[Function]}
+    type="button"
+  >
+    +/-
+  </button>
+  <button
+    id="delete"
+    onClick={[Function]}
+    type="button"
+  >
+    %
+  </button>
+  <button
+    id="divide"
+    onClick={[Function]}
+    type="button"
+  >
+    ÷
+  </button>
+  <button
+    id="seven"
+    onClick={[Function]}
+    type="button"
+  >
+    7
+  </button>
+  <button
+    id="eight"
+    onClick={[Function]}
+    type="button"
+  >
+    8
+  </button>
+  <button
+    id="nine"
+    onClick={[Function]}
+    type="button"
+  >
+    9
+  </button>
+  <button
+    id="multiply"
+    onClick={[Function]}
+    type="button"
+  >
+    x
+  </button>
+  <button
+    id="four"
+    onClick={[Function]}
+    type="button"
+  >
+    4
+  </button>
+  <button
+    id="five"
+    onClick={[Function]}
+    type="button"
+  >
+    5
+  </button>
+  <button
+    id="six"
+    onClick={[Function]}
+    type="button"
+  >
+    6
+  </button>
+  <button
+    id="subtract"
+    onClick={[Function]}
+    type="button"
+  >
+    -
+  </button>
+  <button
+    id="one"
+    onClick={[Function]}
+    type="button"
+  >
+    1
+  </button>
+  <button
+    id="two"
+    onClick={[Function]}
+    type="button"
+  >
+    2
+  </button>
+  <button
+    id="three"
+    onClick={[Function]}
+    type="button"
+  >
+    3
+  </button>
+  <button
+    id="add"
+    onClick={[Function]}
+    type="button"
+  >
+    +
+  </button>
+  <button
+    id="zero"
+    onClick={[Function]}
+    type="button"
+  >
+    0
+  </button>
+  <button
+    id="decimal"
+    onClick={[Function]}
+    type="button"
+  >
+    .
+  </button>
+  <button
+    id="equals"
+    onClick={[Function]}
+    type="button"
+  >
+    =
+  </button>
+</div>
+`;
+
+exports[`test screenshots for all components matches Footer snapshot 1`] = `
+<footer>
+  Math Magicians © Copyright  
+  2021
+  , audited by Simo Nkosi.
+</footer>
+`;
+
+exports[`test screenshots for all components matches Header snapshot 1`] = `
+<header>
+  <a
+    className="logo-link"
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      Math Magicians
+    </h1>
+  </a>
+</header>
+`;
+
+exports[`test screenshots for all components matches Home snapshot 1`] = `
+<section
+  className="homepage"
+>
+  <h2>
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum.
+    <br />
+    <br />
+    Minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur fugiat, temporibus enim commodi iusto libero magni deleniti quod quam consequuntur! Commodi minima excepturi repudiandae velit hic maxime doloremque. Quaerat provident commodi consectetur veniam similique ad earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam quasi aliquam eligendi, placeat qui corporis!
+  </p>
+</section>
+`;
+
+exports[`test screenshots for all components matches Mathematics snapshot 1`] = `
+<section
+  className="calculator-page"
+>
+  <div
+    className="calculator-content"
+  >
+    <h2>
+      Let's do some math!
+    </h2>
+  </div>
+  <div
+    id="calculator"
+  >
+    <div
+      id="display"
+    >
+      0
+    </div>
+    <button
+      id="clear"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      id="delete"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      id="delete"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      id="divide"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      id="seven"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      id="eight"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      id="nine"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      id="multiply"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      id="four"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      id="five"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      id="six"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      id="subtract"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      id="one"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      id="two"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      id="three"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      id="add"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      id="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      id="decimal"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      id="equals"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</section>
+`;
+
+exports[`test screenshots for all components matches Navbar snapshot 1`] = `
+<nav>
+  <header>
+    <a
+      className="logo-link"
+      href="/"
+      onClick={[Function]}
+    >
+      <h1>
+        Math Magicians
+      </h1>
+    </a>
+  </header>
+  <ul
+    className="nav-list"
+  >
+    <li
+      className="nav-item"
+    >
+      <a
+        className="link"
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className="nav-item"
+    >
+      <a
+        className="link"
+        href="/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      className="nav-item"
+    >
+      <a
+        className="link"
+        href="/quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`test screenshots for all components matches Quote snapshot 1`] = `
+<section
+  className="quote-page"
+>
+  <p>
+    
+  </p>
+  <h3>
+    - 
+  </h3>
+</section>
+`;
+
+exports[`test screenshots for all components matches Screen snapshot 1`] = `<div />`;
