@@ -11,6 +11,12 @@ In this project, I achieved the following
 - React
 - JavaScript
 
+## Live Demo
+
+Deploy with Netlify
+
+- [Go Live](https://math-magicians-gordon.netlify.app/)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
